@@ -8,7 +8,7 @@ import it from "element-ui/src/locale/lang/it";
 Vue.use(VueRouter)
 
 const routes = [
-
+  //file has be modified
   // {
   //   path: '/',
   //   component: () => import ('../views/Manage.vue'),
